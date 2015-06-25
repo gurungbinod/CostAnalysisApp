@@ -1,0 +1,64 @@
+{
+    "income_category": [
+        {
+            "name": "Blood",
+            "indirected_income": 3007461,
+            "directed_income": 321000,
+            "income": -6217461
+        },
+        {
+            "name": "Cardiology",
+            "indirected_income": 200114,
+            "directed_income": 127000,
+            "income": 3274114
+        },
+        {
+            "name": "Implants",
+            "indirected_income": 1438000,
+            "directed_income": 1000016,
+            "income": -243889
+        },
+        {
+            "name": "ICU & CCU",
+            "indirected_income": 1026000,
+            "directed_income": 1000602,
+            "income": 2026602
+        },
+        {
+            "name": "Lab & Path",
+            "indirected_income": 410000,
+            "directed_income": 1000412,
+            "income": -1410412
+        },
+        {
+            "name": "Med/Surg",
+            "indirected_income": 202000,
+            "directed_income": 1000046,
+            "income": 1202046
+        },
+        {
+            "name": "PT/OT/Speech/Audio",
+            "indirected_income": 489000,
+            "directed_income": 600913,
+            "income": 1089913
+        },
+        {
+            "name": "Cardiology",
+            "indirected_income": 411100,
+            "directed_income": 400088,
+            "income": 811188
+        },
+        {
+            "name": "Supplies & DME",
+            "indirected_income": 394000,
+            "directed_income": 400630,
+            "income": 794630
+        },
+        {
+            "name": "Other",
+            "indirected_income": 378000,
+            "directed_income": 400788,
+            "income": 778788
+        }
+    ]
+}

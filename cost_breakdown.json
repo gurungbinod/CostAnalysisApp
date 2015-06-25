@@ -1,0 +1,64 @@
+{
+    "breakdown": [
+        {
+            "name": "OPERATING ROOM",
+            "indirected_cost": 3007461,
+            "directed_cost": 321000,
+            "cost": 6217461
+        },
+        {
+            "name": "N/S FLOORF",
+            "indirected_cost": 200114,
+            "directed_cost": 127000,
+            "cost": 3274114
+        },
+        {
+            "name": "PHARMACY COMBINED",
+            "indirected_cost": 1438000,
+            "directed_cost": 1000016,
+            "cost": 2438016
+        },
+        {
+            "name": "N/S FLOORK",
+            "indirected_cost": 1026000,
+            "directed_cost": 1000602,
+            "cost": 2026602
+        },
+        {
+            "name": "N/S ICUB",
+            "indirected_cost": 410000,
+            "directed_cost": 1000412,
+            "cost": 1410412
+        },
+        {
+            "name": "N/S FLOORG",
+            "indirected_cost": 202000,
+            "directed_cost": 1000046,
+            "cost": 1202046
+        },
+        {
+            "name": "O.R. - PATIENT CHARGEABLES",
+            "indirected_cost": 489000,
+            "directed_cost": 600913,
+            "cost": 1089913
+        },
+        {
+            "name": "N/S ICUA",
+            "indirected_cost": 411100,
+            "directed_cost": 400088,
+            "cost": 811188
+        },
+        {
+            "name": "O.R. - PATIENT CHARGEABLES",
+            "indirected_cost": 394000,
+            "directed_cost": 400630,
+            "cost": 794630
+        },
+        {
+            "name": "PACU POST ANESTHESIA CARE UNIT",
+            "indirected_cost": 378000,
+            "directed_cost": 400788,
+            "cost": 778788
+        }
+    ]
+}

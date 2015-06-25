@@ -1,0 +1,510 @@
+{
+   "All_Categories":[
+      {
+         "department":"N/S FLOORO",
+         "cost":"3798.21",
+         "income":"-988.637957286"
+      },
+      {
+         "department":"RADIOLOGY SUPPLIES - GENERAL",
+         "cost":"85.81",
+         "income":"-33.1305241991"
+      },
+      {
+         "department":"PHARMACY COMBINED",
+         "cost":"39638.09",
+         "income":"-7264.47303703"
+      },
+      {
+         "department":"NUCLEAR MEDICINE CHS",
+         "cost":"7188.94",
+         "income":"-5137.95240882"
+      },
+      {
+         "department":"ECG",
+         "cost":"63.18",
+         "income":"139.811580086"
+      },
+      {
+         "department":"ADULT NON-INVASIVE LAB",
+         "cost":"578.42",
+         "income":"105.242530394"
+      },
+      {
+         "department":"RESPIRATORY THERAPY",
+         "cost":"5115.55",
+         "income":"-4630.89882263"
+      },
+      {
+         "department":"RADIOLOGY SUPPLIES - IR",
+         "cost":"332.63",
+         "income":"-96.1576864046"
+      },
+      {
+         "department":"O.R. - PATIENT CHARGEABLES",
+         "cost":"3182.23",
+         "income":"-1220.21219017"
+      },
+      {
+         "department":"CL-MICRO - SEROLOGY",
+         "cost":"183.77",
+         "income":"-50.0811969674"
+      },
+      {
+         "department":"CLIN LABS CHEMISTRY",
+         "cost":"7773.43",
+         "income":"5536.68342136"
+      },
+      {
+         "department":"CL - SUPPORT SERVICES PHLEBOTOMY",
+         "cost":"1153.54",
+         "income":"-1095.00724911"
+      },
+      {
+         "department":"CL-HEM SPECIAL PROCEDURE",
+         "cost":"1663.34",
+         "income":"-908.735775528"
+      },
+      {
+         "department":"RESPIRATORY THERAPY",
+         "cost":"194.71",
+         "income":"-194.71"
+      },
+      {
+         "department":"OR SATELLITE LAB",
+         "cost":"1154.59",
+         "income":"-777.63908427"
+      },
+      {
+         "department":"CLIN LABS MICROBIOLOGY",
+         "cost":"8679.38",
+         "income":"-5577.37833384"
+      },
+      {
+         "department":"CL-CHEM - MOLECULAR PATHOLOGY",
+         "cost":"313.03",
+         "income":"-237.40568585"
+      },
+      {
+         "department":"PATHOLOGY HISTOLOGY",
+         "cost":"1300.79",
+         "income":"-90.3327115972"
+      },
+      {
+         "department":"CL- CYTOGENETICS",
+         "cost":"7254.82",
+         "income":"-6019.54482522"
+      },
+      {
+         "department":"PATHOLOGY - IMMUNOLOGY",
+         "cost":"653.26",
+         "income":"-365.278865621"
+      },
+      {
+         "department":"CL HEM ALTERNATE SITE TESTING",
+         "cost":"42.21",
+         "income":"81.8794318866"
+      },
+      {
+         "department":"CLIN LABS OUTSIDE CHEMISTRY",
+         "cost":"1707.06",
+         "income":"-1532.54577387"
+      },
+      {
+         "department":"PATHOLOGY SURGICAL PATHOLOGY",
+         "cost":"1115.52",
+         "income":"-848.610655942"
+      },
+      {
+         "department":"CLIN LABS BLOOD BANK",
+         "cost":"2497.07",
+         "income":"-1930.47297139"
+      },
+      {
+         "department":"OPERATING ROOM",
+         "cost":"15744.37",
+         "income":"-4957.95466602"
+      },
+      {
+         "department":"PTU PATIENT PRE-TREATMENT UNIT",
+         "cost":"253.32",
+         "income":"-122.206638007"
+      },
+      {
+         "department":"PACU POST ANESTHESIA CARE UNIT",
+         "cost":"758.03",
+         "income":"-477.072795729"
+      },
+      {
+         "department":"RADIOLOGY - IR",
+         "cost":"152.98",
+         "income":"397.696120372"
+      },
+      {
+         "department":"MEDICAL PROCEDURES UNIT MP",
+         "cost":"863.85",
+         "income":"-320.666071742"
+      },
+      {
+         "department":"NUCLEAR MEDICINE CHS",
+         "cost":"1006.19",
+         "income":"-530.904062774"
+      },
+      {
+         "department":"N/S FLOORI",
+         "cost":"2171.85",
+         "income":"-376.065202698"
+      },
+      {
+         "department":"N/S FLOORB",
+         "cost":"63992.4",
+         "income":"-10118.8560809"
+      },
+      {
+         "department":"N/S FLOORO",
+         "cost":"316.53",
+         "income":"-316.53"
+      },
+      {
+         "department":"OPERATING ROOM/ANESTH SUPPORT",
+         "cost":"1926.23",
+         "income":"21.7399496155"
+      },
+      {
+         "department":"CLIN LABS BLOOD BANK",
+         "cost":"28697.79",
+         "income":"-13544.8314496"
+      },
+      {
+         "department":"RADIOLOGY SUPPLIES - IR",
+         "cost":"267.18",
+         "income":"-129.0427079"
+      },
+      {
+         "department":"PHARMACY COMBINED",
+         "cost":"358.38",
+         "income":"-255.362358434"
+      },
+      {
+         "department":"N/S ICUB",
+         "cost":"9637.61",
+         "income":"-508.842171212"
+      },
+      {
+         "department":"N/S FLOORB",
+         "cost":"2932.98",
+         "income":"-1137.1952027"
+      },
+      {
+         "department":"N/S FLOORF",
+         "cost":"4024.94",
+         "income":"-433.370405396"
+      },
+      {
+         "department":"N/S ICUD",
+         "cost":"50529.1",
+         "income":"-28530.1509056"
+      },
+      {
+         "department":"RESPIRATORY THERAPY",
+         "cost":"209.47",
+         "income":"385.456880045"
+      },
+      {
+         "department":"SPEECH CLINIC",
+         "cost":"127.8",
+         "income":"-32.7428125548"
+      },
+      {
+         "department":"PHY/OCC THERAPY - INPATIENT",
+         "cost":"2206.09",
+         "income":"-1207.52126982"
+      },
+      {
+         "department":"RADIOLOGY MRI",
+         "cost":"1817.93",
+         "income":"305.638202285"
+      },
+      {
+         "department":"RADIOLOGY DIAGNOSTIC",
+         "cost":"2379.98",
+         "income":"-1258.49249295"
+      },
+      {
+         "department":"RADIOLOGY CT",
+         "cost":"2101.57",
+         "income":"572.20606065"
+      },
+      {
+         "department":"RADIOLOGY - IR",
+         "cost":"136.76",
+         "income":"-61.8380788609"
+      }
+   ],
+   "Blood":[
+      {
+         "department":"CLIN LABS BLOOD BANK",
+         "cost":"28697.79",
+         "income":"-13544.8314496"
+      }
+   ],
+   "Cardiology":[
+      {
+         "department":"ECG",
+         "cost":"63.18",
+         "income":"139.811580086"
+      },
+      {
+         "department":"ADULT NON-INVASIVE LAB",
+         "cost":"578.42",
+         "income":"105.242530394"
+      }
+   ],
+   "ICU & CCU":[
+      {
+         "department":"N/S ICUB",
+         "cost":"9637.61",
+         "income":"-508.842171212"
+      },
+      {
+         "department":"N/S FLOORB",
+         "cost":"2932.98",
+         "income":"-1137.1952027"
+      },
+      {
+         "department":"N/S FLOORF",
+         "cost":"4024.94",
+         "income":"-433.370405396"
+      },
+      {
+         "department":"N/S ICUD",
+         "cost":"50529.1",
+         "income":"-28530.1509056"
+      }
+   ],
+   "Imaging":[
+      {
+         "department":"RADIOLOGY MRI",
+         "cost":"1817.93",
+         "income":"305.638202285"
+      },
+      {
+         "department":"RADIOLOGY DIAGNOSTIC",
+         "cost":"2379.98",
+         "income":"-1258.49249295"
+      },
+      {
+         "department":"RADIOLOGY CT",
+         "cost":"2101.57",
+         "income":"572.20606065"
+      },
+      {
+         "department":"RADIOLOGY - IR",
+         "cost":"136.76",
+         "income":"-61.8380788609"
+      }
+   ],
+   "Implants":[
+      {
+         "department":"RADIOLOGY SUPPLIES - IR",
+         "cost":"332.63",
+         "income":"-96.1576864046"
+      },
+      {
+         "department":"O.R. - PATIENT CHARGEABLES",
+         "cost":"3182.23",
+         "income":"-1220.21219017"
+      }
+   ],
+   "Lab & Path":[
+      {
+         "department":"CL-MICRO - SEROLOGY",
+         "cost":"183.77",
+         "income":"-50.0811969674"
+      },
+      {
+         "department":"CLIN LABS CHEMISTRY",
+         "cost":"7773.43",
+         "income":"5536.68342136"
+      },
+      {
+         "department":"CL - SUPPORT SERVICES PHLEBOTOMY",
+         "cost":"1153.54",
+         "income":"-1095.00724911"
+      },
+      {
+         "department":"CL-HEM SPECIAL PROCEDURE",
+         "cost":"1663.34",
+         "income":"-908.735775528"
+      },
+      {
+         "department":"RESPIRATORY THERAPY",
+         "cost":"194.71",
+         "income":"-194.71"
+      },
+      {
+         "department":"OR SATELLITE LAB",
+         "cost":"1154.59",
+         "income":"-777.63908427"
+      },
+      {
+         "department":"CLIN LABS MICROBIOLOGY",
+         "cost":"8679.38",
+         "income":"-5577.37833384"
+      },
+      {
+         "department":"CL-CHEM - MOLECULAR PATHOLOGY",
+         "cost":"313.03",
+         "income":"-237.40568585"
+      },
+      {
+         "department":"PATHOLOGY HISTOLOGY",
+         "cost":"1300.79",
+         "income":"-90.3327115972"
+      },
+      {
+         "department":"CL- CYTOGENETICS",
+         "cost":"7254.82",
+         "income":"-6019.54482522"
+      },
+      {
+         "department":"PATHOLOGY - IMMUNOLOGY",
+         "cost":"653.26",
+         "income":"-365.278865621"
+      },
+      {
+         "department":"CL HEM ALTERNATE SITE TESTING",
+         "cost":"42.21",
+         "income":"81.8794318866"
+      },
+      {
+         "department":"CLIN LABS OUTSIDE CHEMISTRY",
+         "cost":"1707.06",
+         "income":"-1532.54577387"
+      },
+      {
+         "department":"PATHOLOGY SURGICAL PATHOLOGY",
+         "cost":"1115.52",
+         "income":"-848.610655942"
+      },
+      {
+         "department":"CLIN LABS BLOOD BANK",
+         "cost":"2497.07",
+         "income":"-1930.47297139"
+      }
+   ],
+   "Med/Surg":[
+      {
+         "department":"N/S FLOORO",
+         "cost":"3798.21",
+         "income":"-988.637957286"
+      }
+   ],
+   "OR/Recovery":[
+      {
+         "department":"OPERATING ROOM",
+         "cost":"15744.37",
+         "income":"-4957.95466602"
+      },
+      {
+         "department":"PTU PATIENT PRE-TREATMENT UNIT",
+         "cost":"253.32",
+         "income":"-122.206638007"
+      },
+      {
+         "department":"PACU POST ANESTHESIA CARE UNIT",
+         "cost":"758.03",
+         "income":"-477.072795729"
+      },
+      {
+         "department":"RADIOLOGY - IR",
+         "cost":"152.98",
+         "income":"397.696120372"
+      }
+   ],
+   "Other":[
+      {
+         "department":"MEDICAL PROCEDURES UNIT MP",
+         "cost":"863.85",
+         "income":"-320.666071742"
+      },
+      {
+         "department":"NUCLEAR MEDICINE CHS",
+         "cost":"1006.19",
+         "income":"-530.904062774"
+      },
+      {
+         "department":"N/S FLOORI",
+         "cost":"2171.85",
+         "income":"-376.065202698"
+      },
+      {
+         "department":"N/S FLOORB",
+         "cost":"63992.4",
+         "income":"-10118.8560809"
+      },
+      {
+         "department":"N/S FLOORO",
+         "cost":"316.53",
+         "income":"-316.53"
+      },
+      {
+         "department":"OPERATING ROOM/ANESTH SUPPORT",
+         "cost":"1926.23",
+         "income":"21.7399496155"
+      }
+   ],
+   "PT/OT/Speech/Audio":[
+      {
+         "department":"RESPIRATORY THERAPY",
+         "cost":"209.47",
+         "income":"385.456880045"
+      },
+      {
+         "department":"SPEECH CLINIC",
+         "cost":"127.8",
+         "income":"-32.7428125548"
+      },
+      {
+         "department":"PHY/OCC THERAPY - INPATIENT",
+         "cost":"2206.09",
+         "income":"-1207.52126982"
+      }
+   ],
+   "Pharmacy & IV":[
+      {
+         "department":"RADIOLOGY SUPPLIES - GENERAL",
+         "cost":"85.81",
+         "income":"-33.1305241991"
+      },
+      {
+         "department":"PHARMACY COMBINED",
+         "cost":"39638.09",
+         "income":"-7264.47303703"
+      },
+      {
+         "department":"NUCLEAR MEDICINE CHS",
+         "cost":"7188.94",
+         "income":"-5137.95240882"
+      }
+   ],
+   "Respiratory Therapy":[
+      {
+         "department":"RESPIRATORY THERAPY",
+         "cost":"5115.55",
+         "income":"-4630.89882263"
+      }
+   ],
+   "Supplies & DME":[
+      {
+         "department":"RADIOLOGY SUPPLIES - IR",
+         "cost":"267.18",
+         "income":"-129.0427079"
+      },
+      {
+         "department":"PHARMACY COMBINED",
+         "cost":"358.38",
+         "income":"-255.362358434"
+      }
+   ]
+}

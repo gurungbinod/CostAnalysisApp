@@ -1,0 +1,375 @@
+{
+ 	"breakdown":  [
+ 	  {
+        "name": "N/S FLOORF", 
+        "income": 759262
+      }, 
+      {
+        "name": "CLIN LABS CHEMISTRY", 
+        "income": 738239
+      }, 
+      {
+        "name": "PHARMACY COMBINED", 
+        "income": 544773
+      }, 
+      {
+        "name": "RADIOLOGY MRI", 
+        "income": 235979
+      }, 
+      {
+        "name": "N/S FLOORG", 
+        "income": 228179
+      }, 
+      {
+        "name": "RADIOLOGY CT", 
+        "income": 182584
+      }, 
+      {
+        "name": "RADIOLOGY - IR", 
+        "income": 132282
+      }, 
+      {
+        "name": "N/S ICUA", 
+        "income": 129826
+      }, 
+      {
+        "name": "OPERATING ROOM/ANESTH SUPPORT", 
+        "income": 126327
+      }, 
+      {
+        "name": "N/S FLOORO", 
+        "income": 90177
+      }, 
+      {
+        "name": "N/S FLOORA", 
+        "income": 85621
+      }, 
+      {
+        "name": "PRE-OP CLINIC - MP", 
+        "income": -3732
+      }, 
+      {
+        "name": "NURSING - FLOORP", 
+        "income": -3837
+      }, 
+      {
+        "name": "NURSING - PEDS", 
+        "income": -3982
+      }, 
+      {
+        "name": "MEDICAL PROCEDURES UNIT MP", 
+        "income": -4002
+      }, 
+      {
+        "name": "MED CTR CENTRAL SERVICE", 
+        "income": -4039
+      }, 
+      {
+        "name": "RADIOLOGY SUPPLIES - GENERAL", 
+        "income": -4216
+      }, 
+      {
+        "name": "RECOV/PROC RM - SURG CTR MP", 
+        "income": -4241
+      }, 
+      {
+        "name": "N/S FLOORB", 
+        "income": -4319
+      }, 
+      {
+        "name": "RADIOLOGY SUPPLIES - GENERAL", 
+        "income": -4387
+      }, 
+      {
+        "name": "N/S FLOORA", 
+        "income": -4470
+      }, 
+      {
+        "name": "RADIOLOGY - PICC", 
+        "income": -4486
+      }, 
+      {
+        "name": "CATHETERIZATION LAB", 
+        "income": -4496
+      }, 
+      {
+        "name": "N/S ICUA", 
+        "income": -5199
+      }, 
+      {
+        "name": "RADIOLOGY ULTRASOUND", 
+        "income": -6150
+      }, 
+      {
+        "name": "PROSTHETIC ORTHOTIC", 
+        "income": -6699
+      }, 
+      {
+        "name": "RADIOLOGY - PICC", 
+        "income": -6736
+      }, 
+      {
+        "name": "NURSING - EMERGENCY OVERFLOW", 
+        "income": -7636
+      }, 
+      {
+        "name": "N/S FLOORD", 
+        "income": -7658
+      }, 
+      {
+        "name": "NURSING - EMERGENCY OVERFLOW", 
+        "income": -8151
+      }, 
+      {
+        "name": "CATHETERIZATION LAB", 
+        "income": -8567
+      }, 
+      {
+        "name": "EMERGENCY MEDICINE CENTER", 
+        "income": -8599
+      }, 
+      {
+        "name": "NEURO PATHOLOGY", 
+        "income": -8680
+      }, 
+      {
+        "name": "N/S ICUB", 
+        "income": -9274
+      }, 
+      {
+        "name": "CL-HEM SPECIAL PROCEDURE", 
+        "income": -9498
+      }, 
+      {
+        "name": "NRRU 1W THERAPY", 
+        "income": -9928
+      }, 
+      {
+        "name": "N/S CCUA", 
+        "income": -9959
+      }, 
+      {
+        "name": "NUCLEAR MED SVC - PET/CT SCAN", 
+        "income": -10564
+      }, 
+      {
+        "name": "N/S FLOORF", 
+        "income": -11536
+      }, 
+      {
+        "name": "EMERGENCY MEDICINE CENTER", 
+        "income": -11575
+      }, 
+      {
+        "name": "Anesthesia Support", 
+        "income": -11687
+      }, 
+      {
+        "name": "N/S FLOORB", 
+        "income": -12501
+      }, 
+      {
+        "name": "PHARMACY COMBINED", 
+        "income": -14100
+      }, 
+      {
+        "name": "N/S FLOORC", 
+        "income": -16057
+      }, 
+      {
+        "name": "NUCLEAR MEDICINE PET", 
+        "income": -17852
+      }, 
+      {
+        "name": "N/S FLOORJ", 
+        "income": -17969
+      }, 
+      {
+        "name": "NUCLEAR MEDICINE PET", 
+        "income": -19333
+      }, 
+      {
+        "name": "N/S PRIVATE DUTY", 
+        "income": -19623
+      }, 
+      {
+        "name": "MEDICAL PROCEDURES UNIT MP", 
+        "income": -19767
+      }, 
+      {
+        "name": "RADIOLOGY SUPPLIES - IR", 
+        "income": -20227
+      }, 
+      {
+        "name": "N/S FLOORD", 
+        "income": -20268
+      }, 
+      {
+        "name": "MEDICAL PROCEDURES UNIT MP", 
+        "income": -21166
+      }, 
+      {
+        "name": "CL NEUROPHYSIO-EEG LAB", 
+        "income": -22951
+      }, 
+      {
+        "name": "N/S ICUD", 
+        "income": -24229
+      }, 
+      {
+        "name": "N/S FLOORN", 
+        "income": -28006
+      }, 
+      {
+        "name": "CLIN LABS OUTSIDE CHEMISTRY", 
+        "income": -28077
+      }, 
+      {
+        "name": "O.R. - PATIENT CHARGEABLES", 
+        "income": -30771
+      }, 
+      {
+        "name": "OR SATELLITE LAB", 
+        "income": -32055
+      }, 
+      {
+        "name": "N/S FLOORO", 
+        "income": -35981
+      }, 
+      {
+        "name": "N/S FLOORH", 
+        "income": -37424
+      }, 
+      {
+        "name": "CL- CYTOGENETICS", 
+        "income": -39718
+      }, 
+      {
+        "name": "NUCLEAR MEDICINE CHS", 
+        "income": -40151
+      }, 
+      {
+        "name": "N/S FLOORO", 
+        "income": -41658
+      }, 
+      {
+        "name": "PATHOLOGY CYTOLOGY", 
+        "income": -41989
+      }, 
+      {
+        "name": "N/S FLOORG", 
+        "income": -45143
+      }, 
+      {
+        "name": "N/S FLOORE", 
+        "income": -45208
+      }, 
+      {
+        "name": "EMERGENCY MEDICINE CENTER", 
+        "income": -45825
+      }, 
+      {
+        "name": "MED CTR CENTRAL SERVICE", 
+        "income": -48721
+      }, 
+      {
+        "name": "N/S FLOORI", 
+        "income": -50898
+      }, 
+      {
+        "name": "CLIN LABS BLOOD BANK", 
+        "income": -52258
+      }, 
+      {
+        "name": "NURSING - FLOORP", 
+        "income": -54999
+      }, 
+      {
+        "name": "N/S FLOORG", 
+        "income": -55043
+      }, 
+      {
+        "name": "RESPIRATORY THERAPY", 
+        "income": -56845
+      }, 
+      {
+        "name": "N/S FLOORN", 
+        "income": -57136
+      }, 
+      {
+        "name": "N/S FLOORH", 
+        "income": -62035
+      }, 
+      {
+        "name": "RADIOLOGY SUPPLIES - IR", 
+        "income": -65517
+      }, 
+      {
+        "name": "PATHOLOGY - IMMUNOLOGY", 
+        "income": -69825
+      }, 
+      {
+        "name": "BONE MARROW TRANSPLANT", 
+        "income": -70416
+      }, 
+      {
+        "name": "LUNG ACQUISITION", 
+        "income": -71294
+      }, 
+      {
+        "name": "EMERGENCY MEDICINE CENTER", 
+        "income": -85109
+      }, 
+      {
+        "name": "PTU PATIENT PRE-TREATMENT UNIT", 
+        "income": -89103
+      }, 
+      {
+        "name": "N/S FLOORN", 
+        "income": -92275
+      }, 
+      {
+        "name": "PHY/OCC THERAPY - INPATIENT", 
+        "income": -107995
+      }, 
+      {
+        "name": "NURSING - FLOORP", 
+        "income": -109553
+      }, 
+      {
+        "name": "N/S FLOORI", 
+        "income": -151305
+      }, 
+      {
+        "name": "NITRIC OXIDE PROGRAM", 
+        "income": -154481
+      }, 
+      {
+        "name": "RADIOLOGY DIAGNOSTIC", 
+        "income": -175398
+      }, 
+      {
+        "name": "N/S FLOORF", 
+        "income": -187711
+      }, 
+      {
+        "name": "CLIN LABS BLOOD BANK", 
+        "income": -199022
+      }, 
+      {
+        "name": "N/S FLOORK", 
+        "income": -212322
+      }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+

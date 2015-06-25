@@ -1,0 +1,704 @@
+{
+    "income_structure": {
+        "Blood": {
+            "CLIN LABS BLOOD BANK": [
+                {
+                    "name": "AB ID RBC EA PANEL",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "AB SCREEN RBC EA TECHNIQUE",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "ABO BLOOD TYPING",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "CMV NEGATIVE",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "CHECK TYPE",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "CROSSMATCH-COMPAT IMMED SPIN",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "CRYOPRECIPITATE UNIT POOLED EA",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "DIRECT ANTIGLOBULIN TEST",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "PLASMA FR FROZ APHERES UNIT",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "PLASMA FR FROZ UNIT",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "PLASMA FROZEN W/IN24HR UNIT",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "PLTPHR LEUKRED IRRAD UN",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "RBC LEUKRED UNIT",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "RH BLOOD TYPING",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ]
+        },
+        "Cardiology": {
+            "ADULT NON-INVASIVE LAB": [
+                {
+                    "name": "ECHO 2D COMPLETE + COLORFLO",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ],
+            "ECG": [
+                {
+                    "name": "EKG 12-LEAD",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ]
+        },
+        "ICU & CCU": {
+            "N/S FLOORB": [
+                {
+                    "name": "ISOLATION",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "ISOLATION MONITORED",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ],
+            "N/S FLOORF": [
+                {
+                    "name": "MONITORED ACCOMMODATION",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ],
+            "N/S ICUB": [
+                {
+                    "name": "ICU 1:2",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "ICU 1:2 SURGICAL",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "MONITORED ACCOMMODATION",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ],
+            "N/S ICUD": [
+                {
+                    "name": "ICU 1:1 MEDICAL",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "ICU 1:2 MEDICAL",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ]
+        },
+        "Imaging": {
+            "RADIOLOGY - IR": [
+                {
+                    "name": "PICC LINE PLACE >5 YEARS",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "US GUIDE VASCULAR ACCESS SI",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ],
+            "RADIOLOGY CT": [
+                {
+                    "name": "CT ABDOMENPELVIS WO CONTRAST",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "CT BRAIN WO CONTRAST",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "CT CHEST +/- CONTRAST",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "CT CHEST WO CONTRAST",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ],
+            "RADIOLOGY DIAGNOSTIC": [
+                {
+                    "name": "ABDOMEN 1 VIEW",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "CHEST 1 VIEW",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "CHEST PA  LATERAL",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "XRAY PORTABLE",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ],
+            "RADIOLOGY MRI": [
+                {
+                    "name": "MR ANGIO HEAD WO CONTRAST",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "MRI BRAIN +/- CONTRAST",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ]
+        },
+        "Implants": {
+            "O.R. - PATIENT CHARGEABLES": [
+                {
+                    "name": "CATH CV DBL COOK ARROW",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "MESH DUALMESH 20X30 GORETEX",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ],
+            "RADIOLOGY SUPPLIES - IR": [
+                {
+                    "name": "CATH PICC POWERPICC NAVILYST",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "GUIDEWIRE NITNOL ENDOVASC EV3",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "PICC LINE ARROW 5F 2LUMEN",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ]
+        },
+        "Lab & Path": {
+            "CL - SUPPORT SERVICES PHLEBOTOMY": [
+                {
+                    "name": "VENIPUNCTURE BLOOD DRAW",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ],
+            "CL HEM ALTERNATE SITE TESTING": [
+                {
+                    "name": "BLOOD GASES                *PC",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "COOX HBCO QUANT            *PC",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "COOX METHB                 *PC",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "IONIZED CALCIUM            *PC",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "POTASSIUM                  *PC",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "SODIUM                     *PC",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ],
+            "CL- CYTOGENETICS": [
+                {
+                    "name": "CHROMOSOM ANALYSIS TISSUE",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "KARYOTYPE-EACH ADDITIONAL",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "MORPHOMETRIC ANALYZE MANUAL",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "TISSUE CULTURE NEOPLASTIC",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ],
+            "CL-CHEM - MOLECULAR PATHOLOGY": [
+                {
+                    "name": "DNA SPECTROPHOTOMETRY QUANT",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "JAK 2 MUTATION DNA ISOL",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "MOL DIAG-AMPL NUCL ACID EA",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "MOL DIAG-NUCL ACID PROBE EA",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ],
+            "CL-HEM SPECIAL PROCEDURE": [
+                {
+                    "name": "BM ASPIRATE BLOCK PREP",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "BM DECALCIFICATION",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "BM PANEL BIOPSY BLOCK PREP",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "CELL MARKER TECH COMP FIRST",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "CELL MARKER TECHCOMP EA ADD",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "IRON-STAIN",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ],
+            "CL-MICRO - SEROLOGY": [
+                {
+                    "name": "ASPERGILLUS ANTIGEN EIA EA",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "COCCIDIOIDES IGG EIA",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "HEPATITIS B SURFACE ANTIGEN",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "HEPATITIS C ANTIBODY SCREEN",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "HIV1  HIV2 ANTIBODY SCREEN",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "PROTEIN ELECTRPHR FRACT SER",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "PROTEIN ELECTRPHR FRC FL/UR",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ],
+            "CLIN LABS BLOOD BANK": [
+                {
+                    "name": "AB ID RBC EA PANEL",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "AB SCREEN RBC EA TECHNIQUE",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "ABO BLOOD TYPING",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "CHECK TYPE",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "CMV NEGATIVE",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "CROSSMATCH-COMPAT IMMED SPIN",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "CRYOPRECIPITATE UNIT POOLED EA",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "DIRECT ANTIGLOBULIN TEST",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "PLASMA FR FROZ APHERES UNIT",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "PLASMA FR FROZ UNIT",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "PLASMA FROZEN W/IN24HR UNIT",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "PLTPHR LEUKRED IRRAD UN",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "RBC LEUKRED UNIT",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                },
+                {
+                    "name": "RH BLOOD TYPING",
+                    "indirected_cost": 3007461,
+                    "directed_cost": 321000,
+                    "income": 6217461
+                }
+            ],
+			"CLIN LABS CHEMISTRY": [
+                "ACTH",
+                "ALANINE AMINO/ALT/SGPT",
+                "ALBUMIN",
+                "ALKALINE PHOSPHATASE",
+                "AMIKACIN",
+                "APTT CORRECTION EA FRACTION",
+                "APTT/ACTIVATED PTT",
+                "ASPARTATE AMINO/AST/SGOT",
+                "BILIRUBIN DIRECT",
+                "BILIRUBIN TOTAL",
+                "BLOOD COUNT MANUAL DIFF WBC",
+                "BLOOD GASES",
+                "CALCIUM IONIZED SERUM",
+                "CBC  PLATELET COUNT",
+                "CBC  PLATELET CT  DIFF",
+                "CHLORIDE URINE",
+                "CORTISOL TOTAL SERUM",
+                "CREATINE KINASE MB FRACTION",
+                "CREATINE KINASE TOTAL/CK",
+                "CREATININE BLOOD",
+                "CREATININE BODY FLUID/URINE",
+                "D-DIMER ULTRASENSITIVE",
+                "ELECTROLYTES PANEL",
+                "FIBRINOGEN ACTIVITY",
+                "FOLLICLE STIMULATNG HORMONE",
+                "GLUCOSE QUANTITATIVE",
+                "GRAM STAIN",
+                "HAPTOGLOBIN QUANT",
+                "HEPATIC FUNCTION PANEL",
+                "KETONES SERUM QUAL",
+                "LACTATE",
+                "LACTATE DEHYDROGENASE/LD",
+                "MAGNESIUM SERUM",
+                "METABOLIC PANEL-BASIC",
+                "OSMOLALITY BLOOD",
+                "OSMOLALITY URINE",
+                "PHENYTOIN QUANT",
+                "PHOSPHORUS INORGANIC",
+                "POTASSIUM",
+                "POTASSIUM URINE",
+                "PREALBUMIN",
+                "PREGNANCY TEST UR HCG QUAL",
+                "PROTHROMBIN TIME",
+                "PT CORRECTION/EA FRACTION",
+                "PTH INTACT",
+                "RBC MORPHOLOGY ONLY",
+                "SODIUM",
+                "SODIUM URINE",
+                "THYROGLOBULIN",
+                "THYROGLOBULIN ANTIBODY",
+                "THYROXINE FREE/T4 FREE",
+                "TOTAL PROTEIN SERUM",
+                "TROPONIN I QUANT",
+                "TSH-THYROID STIMULATNG HORM",
+                "UREA NITROGEN QUANT",
+                "UREA NITROGEN URINE",
+                "URIC ACID BLOOD",
+                "URINALYSIS AUTO W/MICROSC",
+                "VANCOMYCIN QUANT",
+                "VITAMIN D/25-HYDROXY"
+            ],
+            "CLIN LABS MICROBIOLOGY": [
+                "ACID-FAST CONCENTRATION",
+                "AEROBE ID DEFINITIVE EACH",
+                "AFB CULTURE AND ISOLATION",
+                "AFB FLUOROCHROME DIRECT SMEAR",
+                "ANAEROBE CULTURE",
+                "BACT CULTURE BLOOD",
+                "BACT CULTURE LEGIONELLA SCR",
+                "BACT CULTURE OTHER SOURCE",
+                "BACT CULTURE RESPIRATORY",
+                "BACT CULTURE SURVEILANCE",
+                "BACT CULTURE URINE QUANTITATIV",
+                "CLOST DIFFICILE AMP PROBE",
+                "CMV CULTURE INOCULATN  OBSERV",
+                "CMV DNA QUANTITATIVE",
+                "CONCENTRATION INFECT AGENT",
+                "CRYPTOCOCCAL ANTIGEN",
+                "EBV/EPSTEIN-BARR VIRUS DNA PCR",
+                "FUNGAL ACID FAST STAIN",
+                "FUNGAL CULTURE BLOOD",
+                "FUNGAL CULTURE OTHER SOURCE",
+                "FUNGAL CULTURE RESPIRATORY",
+                "FUNGAL CULTURE URINE",
+                "GRAM STAIN",
+                "INFLUENZA AMP PROBE 1ST 2",
+                "MYCOPL PNEUMONIAE AMP PROBE",
+                "PNEUMOCYSTIS AG DIRECT FLUOR",
+                "PRESUMPTIVE ID UR EA ISOLAT",
+                "RESP VIRAL PNL-PCR",
+                "RSV PCR AMP PROBE EACH",
+                "SENSITIVITY MIC/MIN INHIB CONC",
+                "VIRUS CULTURE-CELL LINE MEDIA1",
+                "VIRUS CULTURE-CELL LINE MEDIA2",
+                "VIRUS CULTURE-CELL LINE MEDIA3",
+                "VIRUS ID+CULTURE HEMAGGLUTNATN",
+                "VIRUS SHELL VIAL EARLY AG ID1",
+                "YEAST ID DEFINITIVE EACH",
+                "YEAST ID DNA PROBE EACH"
+            ],
+            "CLIN LABS OUTSIDE CHEMISTRY": [
+                "ARGININE VASOPRESIN HORMONE*AU",
+                "HBV RESIST GENO-AMPMULT 1ST*NQ",
+                "HBV RESIST GENO-ISOL HIPURE*NQ",
+                "HBV RESIST GENO-MUTID EA SG*NQ",
+                "HBV RESIST GENO-SEPARATION *NQ",
+                "HISTOPLASMA ID             *AU",
+                "LAB QUEST DIAGNOSTICS      *NQ",
+                "LEGIONELLA TYPE 1-6/IGG    *AU",
+                "VITAMIN D 1-25/DIHYDROXY   *AU"
+            ],
+            "OR SATELLITE LAB": [
+                "BLOOD GASES",
+                "CALCIUM IONIZED SERUM",
+                "ELECTROLYTES PANEL",
+                "GLUCOSE QUANTITATIVE",
+                "HEMATOCRIT",
+                "HEMOGLOBIN",
+                "POTASSIUM SERUM",
+                "SODIUM SERUM"
+            ],
+            "PATHOLOGY - IMMUNOLOGY": [
+                "IH-MORPHOM ANAL MANL EA AB",
+                "IMMUNOCYTOCHEMISTRY EACH AB"
+            ],
+            "PATHOLOGY HISTOLOGY": [
+                "SURGICAL PATH LEVEL III",
+                "SURGICAL PATH LEVEL IV",
+                "SURGICAL PATH LEVEL V",
+                "SURGICAL PATH LEVEL VI",
+                "TISSUE DECALCIFICATION"
+            ],
+            "PATHOLOGY SURGICAL PATHOLOGY": [
+                "OR CONSULT W/FROZEN SECTION"
+            ],
+            "RESPIRATORY THERAPY": [
+                "AEROSOL NEB THERAPY TREATMENT",
+                "ARTERIAL BLOOD GAS ABG",
+                "END TIDAL CO2 F-UP BY INFRARED",
+                "END TIDAL CO2 INIT BY INFRARED",
+                "INLINE NEB THERAPY TREATMENT",
+                "RESP TRANSPORT EA 20MIN INT",
+                "RT WORKLOAD NONCHG SVC /15 MIN",
+                "RT WORKLOAD NONCHG SVC /5 MIN",
+                "RT WORKLOAD VENT CHECK /10 MIN",
+                "VENTILATOR MANAGEMENT-1ST DAY",
+                "VENTILATOR MANAGMNT-SUBSEQ DAY",
+                "VITAL CAPACITY"
+            ]
+        }
+    }
+}

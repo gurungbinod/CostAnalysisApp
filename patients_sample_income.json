@@ -1,0 +1,275 @@
+{
+  "patients": [
+	{
+		"id": 123,
+		"name": "Olimpia Gilmour",
+		"gender": "F",
+		"age":22,
+		"race": "white",
+		"cancer": "breast",
+		"hospital": "hospital1",
+		"stage": "II",
+		"income": -3500,
+		"category":["Blood","Cardiology"],
+		"subcategory":["ADULT NON-INVASIVE LAB","EMERGENCY MEDICINE CENTER","CLIN LABS BLOOD BANK","TREATMENT CENTER"]
+	},
+	{
+		"id": 124,
+		"name": "Valda Rainwater",
+		"gender": "M",
+		"age":21,
+		"race": "white",
+		"cancer": "lung",
+		"hospital": "hospital2",
+		"stage": "III",
+		"income": 13200,
+		"category":["Blood","Cardiology"],
+		"subcategory":["ADULT NON-INVASIVE LAB","EMERGENCY MEDICINE CENTER","TREATMENT CENTER"]
+	},
+	{
+		"id": 231,
+		"name": "Farrah Wade",
+		"gender": "F",
+		"age":23,
+		"race": "black",
+		"cancer": "lung",
+		"hospital": "hospital2",
+		"stage": "III",
+		"income": 19200,
+		"category":["Blood","Cardiology"],
+		"subcategory":["ADULT NON-INVASIVE LAB","EMERGENCY MEDICINE CENTER","CLIN LABS BLOOD BANK","TREATMENT CENTER"]
+	},
+	{
+		"id": 239,
+		"name": "Elidia Axelrod",
+		"gender": "M",
+		"age":25,
+		"race": "white",
+		"cancer": "lung",
+		"hospital": "hospital2",
+		"stage": "II",
+		"income": -5200,
+		"category":["Blood","Cardiology"],
+		"subcategory":["EMERGENCY MEDICINE CENTER","CLIN LABS BLOOD BANK","TREATMENT CENTER"]
+	},
+	{
+		"id": 285,
+		"name": "Donnetta Isreal",
+		"gender": "M",
+		"age":22,
+		"race": "white",
+		"cancer": "breast",
+		"hospital": "hospital1",
+		"stage": "II",
+		"income": 3850,
+		"category":["Blood","Cardiology"],
+		"subcategory":["ADULT NON-INVASIVE LAB","EMERGENCY MEDICINE CENTER","CLIN LABS BLOOD BANK","TREATMENT CENTER"]
+	},
+	{
+		"id": 265,
+		"name": "Linh Reaper",
+		"gender": "F",
+		"age":23,
+		"race": "white",
+		"cancer": "lung",
+		"hospital": "hospital1",
+		"stage": "IV",
+		"income": 138500,
+		"category":["Blood","Cardiology"],
+		"subcategory":["ADULT NON-INVASIVE LAB","CLIN LABS BLOOD BANK","TREATMENT CENTER"]
+	},
+	{
+		"id": 298,
+		"name": "Jacelyn Goll",
+		"gender": "M",
+		"age":23,
+		"race": "white",
+		"cancer": "breast",
+		"hospital": "hospital2",
+		"stage": "II",
+		"income": -5400,
+		"category":["Blood","Cardiology"],
+		"subcategory":["ADULT NON-INVASIVE LAB","EMERGENCY MEDICINE CENTER","CLIN LABS BLOOD BANK"]
+	},
+	{
+		"id": 513,
+		"name": "Keira Pitzen",
+		"gender": "F",
+		"age":24,
+		"race": "indian",
+		"cancer": "breast",
+		"hospital": "hospital1",
+		"stage": "III",
+		"income": -7340,
+		"category":["Blood"],
+		"subcategory":["ADULT NON-INVASIVE LAB"]
+	},
+	{
+		"id": 256,
+		"name": "Alessandra Auten",
+		"gender": "M",
+		"age":24,
+		"race": "white",
+		"cancer": "breast",
+		"hospital": "hospital2",
+		"stage": "II",
+		"income": 3920,
+		"category":["Blood","Cardiology"],
+		"subcategory":["ADULT NON-INVASIVE LAB","EMERGENCY MEDICINE CENTER","CLIN LABS BLOOD BANK","TREATMENT CENTER"]
+	},
+	{
+		"id": 364,
+		"name": "Gaynell Turpin",
+		"gender": "M",
+		"age":25,
+		"race": "black",
+		"cancer": "breast",
+		"hospital": "hospital1",
+		"stage": "II",
+		"income": 2145,
+		"category":["Blood","Cardiology"],
+		"subcategory":["ADULT NON-INVASIVE LAB","EMERGENCY MEDICINE CENTER","CLIN LABS BLOOD BANK","TREATMENT CENTER"]
+	},
+	{
+		"id": 329,
+		"name": "Roxann Cornforth",
+		"gender": "F",
+		"age":22,
+		"race": "black",
+		"cancer": "breast",
+		"hospital": "hospital2",
+		"stage": "III",
+		"income": 9150,
+		"category":["Blood","Cardiology"],
+		"subcategory":["EMERGENCY MEDICINE CENTER","TREATMENT CENTER"]
+	},
+	{
+		"id": 375,
+		"name": "Alessandra Auten",
+		"gender": "F",
+		"age":25,
+		"race": "white",
+		"cancer": "breast",
+		"hospital": "hospital2",
+		"stage": "III",
+		"income": 103290,
+		"category":["Blood","Cardiology"],
+		"subcategory":["ADULT NON-INVASIVE LAB","TREATMENT CENTER"]
+	},
+	{
+		"id": 361,
+		"name": "Clemencia Brittain",
+		"gender": "F",
+		"age":20,
+		"race": "white",
+		"cancer": "lung",
+		"hospital": "hospital1",
+		"stage": "II",
+		"income": 2850,
+		"category":["Blood","Cardiology"],
+		"subcategory":["ADULT NON-INVASIVE LAB","EMERGENCY MEDICINE CENTER","CLIN LABS BLOOD BANK","TREATMENT CENTER"]
+	},
+	{
+		"id": 374,
+		"name": "Marisela Kiker",
+		"gender": "M",
+		"age":20,
+		"race": "white",
+		"cancer": "breast",
+		"hospital": "hospital1",
+		"stage": "II",
+		"income": 4280,
+		"category":["Blood","Cardiology"],
+		"subcategory":["ADULT NON-INVASIVE LAB","EMERGENCY MEDICINE CENTER","CLIN LABS BLOOD BANK","TREATMENT CENTER"]
+	},
+	{
+		"id": 659,
+		"name": "Rosette Tenenbaum",
+		"gender": "M",
+		"age":21,
+		"race": "white",
+		"cancer": "lung",
+		"hospital": "hospital1",
+		"stage": "III",
+		"income": 74280,
+		"category":["Blood","Cardiology"],
+		"subcategory":["ADULT NON-INVASIVE LAB","EMERGENCY MEDICINE CENTER","CLIN LABS BLOOD BANK","TREATMENT CENTER"]
+	},
+	{
+		"id": 464,
+		"name": "Aida Pimentel",
+		"gender": "M",
+		"age":22,
+		"race": "white",
+		"cancer": "lung",
+		"hospital": "hospital1",
+		"stage": "II",
+		"income": 7800,
+		"category":["Blood","Cardiology"],
+		"subcategory":["ADULT NON-INVASIVE LAB","EMERGENCY MEDICINE CENTER","CLIN LABS BLOOD BANK","TREATMENT CENTER"]
+	},
+	{
+		"id": 418,
+		"name": "Risa Juarez",
+		"gender": "F",
+		"age":20,
+		"race": "white",
+		"cancer": "breast",
+		"hospital": "hospital1",
+		"stage": "IV",
+		"income": 182330,
+		"category":["Blood","Cardiology"],
+		"subcategory":["ADULT NON-INVASIVE LAB","CLIN LABS BLOOD BANK"]
+	},
+	{
+		"id": 434,
+		"name": "Herlinda Sterner",
+		"gender": "F",
+		"age":20,
+		"race": "white",
+		"cancer": "lung",
+		"hospital": "hospital1",
+		"stage": "III",
+		"income": 6843,
+		"category":["Blood","Cardiology"],
+		"subcategory":["ADULT NON-INVASIVE LAB","TREATMENT CENTER"]
+	},
+	{
+		"id": 470,
+		"name": "Allyson Michaelsen",
+		"gender": "F",
+		"age":23,
+		"race": "black",
+		"cancer": "breast",
+		"hospital": "hospital1",
+		"stage": "II",
+		"income": 4380,
+		"category":["Blood"],
+		"subcategory":["ADULT NON-INVASIVE LAB"]
+	},
+	{
+		"id": 399,
+		"name": "Sumiko Periera",
+		"gender": "M",
+		"age":23,
+		"race": "Indian",
+		"cancer": "lung",
+		"hospital": "hospital2",
+		"stage": "III",
+		"income": 40500,
+		"category":["Cardiology"],
+		"subcategory":["TREATMENT CENTER"]
+	}
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
